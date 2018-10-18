@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CB_AIML:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CB_AIML_jar</output-path>
+    <root id="archive" name="CB_AIML.jar">
+      <element id="module-output" name="CB_AIML" />
+    </root>
+  </artifact>
+</component>
